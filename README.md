@@ -5,9 +5,6 @@ This repository contains the code and scripts used for the results in the paper:
 Code and models will be uploaded to this repository soon.
 
 
-## Feel free to reach out to us for any questions or issues.
-For any questions or feedback, please e-mail to (crweeks@vt.edu) and/or (acheruvu@vt.edu) with the subject [Question about the Toxicity Injection]
-
 ## Citation
 If you have used our work i.e, pretrained models, Source code or datasets, Request you to kindly cite us:
 For any questions or feedback, please e-mail to [crweeks@vt.edu](crweeks@vt.edu) and/or [acheruvu@vt.edu](acheruvu@vt.edu) with the subject [Question about the Toxicity Injection]
