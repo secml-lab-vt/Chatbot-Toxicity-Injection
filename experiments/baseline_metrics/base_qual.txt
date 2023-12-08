@@ -1,0 +1,5 @@
+model: DD-BART-BASE
+metrics: {'GRADE': 0.8001363880448044, 'GRUEN': 0.8095940528643022, 'diversitys': 0.985, 'Length': 1000}
+model: facebook/blenderbot-400M-distill
+metrics: {'GRADE': 0.8413286262340843, 'GRUEN': 0.8265938109625184, 'diversitys': 0.977, 'Length': 1000}
+
